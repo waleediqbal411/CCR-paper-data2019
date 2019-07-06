@@ -13,4 +13,4 @@ There are eight major attributes in this data.
 7. Author's keywords
 8. Index Keywords
 
-All of the analyses and results are computed from these five major attributes.
+All of the analyses and results are computed from these eight major attributes.
