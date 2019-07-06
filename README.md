@@ -3,7 +3,7 @@ This Repository contains the dataset used in our CCR paper.
 
 This data is obtained from Scopus digital repository and ACM digital library. There are two files available in this data. One contained the authorship and affiliation data, and other contains the reference and citation count data.
 
-There are eight major attributes in this data.
+There are nine major attributes in this data.
 1. Name of author(s)
 2. Name of author's affiliation
 3. Citation count
@@ -12,5 +12,6 @@ There are eight major attributes in this data.
 6. Abstract of Paper
 7. Author's keywords
 8. Index Keywords
+9. References of a paper
 
-All of the analyses and results are computed from these eight major attributes.
+All of the analyses and results are computed from these nine major attributes.
